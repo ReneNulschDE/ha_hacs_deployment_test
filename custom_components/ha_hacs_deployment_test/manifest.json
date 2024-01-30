@@ -1,0 +1,18 @@
+{
+  "domain": "ha_hacs_deployment_test",
+  "name": "ha_hacs_deployment_test",
+  "codeowners": [
+    "@ReneNulschDE"
+  ],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/ReneNulschDE/ha_hacs_deployment_test",
+  "integration_type": "hub",
+  "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/ReneNulschDE/ha_hacs_deployment_test/issues",
+  "loggers": [
+    "custom_components.ha_hacs_deployment_test"
+  ],
+  "requirements": [],
+  "version": "0.0.1"
+}

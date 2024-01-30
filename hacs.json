@@ -1,0 +1,5 @@
+{
+  "name": "ha_hacs_deployment_test",
+  "domains": ["sensor"],
+  "iot_class": "cloud_polling"
+}
