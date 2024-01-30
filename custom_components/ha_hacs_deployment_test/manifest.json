@@ -4,7 +4,7 @@
   "codeowners": [
     "@ReneNulschDE"
   ],
-  "config_flow": false,
+  "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/ReneNulschDE/ha_hacs_deployment_test",
   "integration_type": "hub",
